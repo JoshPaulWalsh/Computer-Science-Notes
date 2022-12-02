@@ -1,0 +1,2 @@
+HASH MAPS
+  To increase a counter put countingNumber.put(1, countingNumber.get(1) + 1);
